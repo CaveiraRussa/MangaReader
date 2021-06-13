@@ -46,7 +46,7 @@ header nav a:hover{
 /*filme principal*/
 .filme-principal{
     font-size:15px;
-    background: linear-gradient(rgba(0,0,0.10), rgba(0,0,0,.10)50%), url("../img/capa-vinland.jpg");;
+    background: linear-gradient(rgba(0,0,0.10), rgba(0,0,0,.10)50%), url("../img/capa-vinland.jpg");
     height:400px;
     background-size:cover;
  
